@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Editor files
+.vscode
+.idea
+
+# Python env
+venv
+.venv
